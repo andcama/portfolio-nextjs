@@ -128,6 +128,15 @@ const projects = [
     github: "https://github.com/andcama/ecommerce-admin-app",
     link: "https://ecommerce-admin-app-two.vercel.app/",
   },
+  ,
+  {
+    name: "Genius AI Generator",
+    description:
+      "SaaS AI Platform with Next.js 13",
+    image: "/portfolio/ai.png",
+    github: "https://github.com/andcama/ai-app-nextjs",
+    link: "https://ai-app-nextjs.vercel.app/",
+  },
 ]
 
 const ProjectsSection = () => {
@@ -180,7 +189,6 @@ const ProjectsSection = () => {
             </div>
           )
         })}
-        
       </div>
     </section>
   )
