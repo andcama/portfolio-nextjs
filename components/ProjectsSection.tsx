@@ -134,7 +134,15 @@ const projects = [
     image: "/portfolio/ai.png",
     github: "https://github.com/andcama/ai-app-nextjs",
     link: "https://ai-app-nextjs.vercel.app/",
+  },
+  {
+    name: "Miro Clone App",
+    description:"Miro App with Next.js 14",
+    image: "/portfolio/miro.png",
+    github: "https://github.com/andcama/miro-clone-app",
+    link: "https://miro-clone-app-rho.vercel.app/",
   }
+  
 ]
 
 const ProjectsSection = () => {
