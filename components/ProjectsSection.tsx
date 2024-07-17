@@ -141,6 +141,13 @@ const projects = [
     image: "/portfolio/miro.png",
     github: "https://github.com/andcama/miro-clone-app",
     link: "https://miro-clone-app-rho.vercel.app/",
+  },
+  {
+    name: "Canvas Clone App",
+    description:"Canvas App with Next.js 14",
+    image: "/portfolio/canvas.png",
+    github: "https://github.com/andcama/canva-clone",
+    link: "https://canva-clone-omega.vercel.app/",
   }
   
 ]
