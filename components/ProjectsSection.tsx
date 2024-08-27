@@ -148,6 +148,13 @@ const projects = [
     image: "/portfolio/canvas.png",
     github: "https://github.com/andcama/canva-clone",
     link: "https://canva-clone-omega.vercel.app/",
+  },
+  {
+    name: "Weather App Nextjs and Typescript",
+    description:"Weather App with Next.js",
+    image: "/portfolio/weather.png",
+    github: "https://github.com/andcama/weather-app",
+    link: "https://weather-app-wheat-ten-76.vercel.app/",
   }
   
 ]
