@@ -130,33 +130,47 @@ const projects = [
   },
   {
     name: "Genius AI Generator",
-    description:"SaaS AI Platform with Next.js 13",
+    description: "SaaS AI Platform with Next.js 13",
     image: "/portfolio/ai.png",
     github: "https://github.com/andcama/ai-app-nextjs",
     link: "https://ai-app-nextjs.vercel.app/",
   },
   {
     name: "Miro Clone App",
-    description:"Miro App with Next.js 14",
+    description: "Miro App with Next.js 14",
     image: "/portfolio/miro.png",
     github: "https://github.com/andcama/miro-clone-app",
     link: "https://miro-clone-app-rho.vercel.app/",
   },
   {
     name: "Canvas Clone App",
-    description:"Canvas App with Next.js 14",
+    description: "Canvas App with Next.js 14",
     image: "/portfolio/canvas.png",
     github: "https://github.com/andcama/canva-clone",
     link: "https://canva-clone-omega.vercel.app/",
   },
   {
     name: "Weather App Nextjs and Typescript",
-    description:"Weather App with Next.js",
+    description: "Weather App with Next.js",
     image: "/portfolio/weather.png",
     github: "https://github.com/andcama/weather-app",
     link: "https://weather-app-wheat-ten-76.vercel.app/",
+  },
+  {
+    name: " Full-stack Real Estate  with React Native ",
+    description: " Full-stack Real Estate app from scratch with Google Authentication, dynamic routing, and more. Master essential skills for scalable and clean React Native development. ",
+    image: "/portfolio/real-state-app.png",
+    github: "https://github.com/andcama/realstate-app",
+    link: "https://github.com/andcama/realstate-app",
+  },
+  {
+    name: " Full Stack Social App with React & Next.js ",
+    description: "Full Stack Social App with Next.js",
+    image: "/portfolio/social-app.png",
+    github: "https://github.com/andcama/social-app",
+    link: "https://social-app-liart-omega.vercel.app/",
   }
-  
+
 ]
 
 const ProjectsSection = () => {
