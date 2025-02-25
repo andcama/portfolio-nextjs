@@ -169,6 +169,13 @@ const projects = [
     image: "/portfolio/social-app.png",
     github: "https://github.com/andcama/social-app",
     link: "https://social-app-liart-omega.vercel.app/",
+  },
+  {
+    name: " Movie Search App with React & Appwrite ",
+    description: "",
+    image: "/portfolio/movie-app.png",
+    github: "https://github.com/andcama/movie-app",
+    link: "https://movie-app-two-liart-98.vercel.app/",
   }
 
 ]
